@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2018-10-21T05:07:28" hostname="Giansar.local" time="0.014">
+  <properties/>
+  <testcase name="nodeHeapTest" classname="test.java.AlgoTest" time="0.004"/>
+  <testcase name="edgeBubbleTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="nullBubbleTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="edgeSelectionTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="nullQuickTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="reverseEdgeHeapTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="nodeBubbleTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="nullMergeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="nullHeapTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="edgeHeapTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="nodeInsertionTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="reverseEdgeQuickTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="nullInsertionTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="nodeSelectionTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="nodeQuickTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="edgeQuickTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="nodeMergeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="edgeMergeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="edgeInsertionTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="nullSelectionTest" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
